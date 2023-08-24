@@ -1,0 +1,42 @@
+form{
+    margin-left: 10px;
+}
+.otpinput{
+    width: 40px;
+    height: 45px;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 30px;
+  }
+  .otp{
+    font-size: 30px;
+    font-weight: 500;
+    color: #333;
+    color:white;
+    text-align: center;
+    }
+    .input-field input::-webkit-inner-spin-button,
+    .input-field input::-webkit-outer-spin-button{
+        display:none;
+    }
+    form button{
+        margin: 20px 20px;
+        font-size: 20px; 
+        cursor:pointer;
+        
+        text-align: center;
+        border:1px solid grey;
+        border-radius: 5px;
+    }
+   form button:hover{
+        background: #0e4bf0;
+   }
+   .input-field{
+    text-align: center;
+   }
+   .otpbutton{
+    width:100%;
+    height:40px;
+    margin:20px 0 !important;
+   }
